@@ -1,0 +1,11 @@
+&INPUT_BROADENING
+   ggh = 0.2
+   ggm = 5.0
+   ac  = 30.
+   aw  = 30.
+   ef  = 0.0
+   emax = 30.
+   emin = -10.
+   xnepoints = 500
+   filename = 'broadening.dat'
+/
